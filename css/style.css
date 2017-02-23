@@ -1,0 +1,48 @@
+body {
+  background-image: url("https://c1.staticflickr.com/6/5018/5500338335_95957a3f4e_b.jpg");
+  background-size: cover;
+  background-position: center center;
+  height: 100vh;
+  color: #FFFFFF;
+}
+
+.quote-container {
+  margin-top: 20%;
+  margin-bottom: 20%;
+  background-color: rgba(0, 0, 0, 0);
+}
+
+.quote {
+  position: relative;
+  float: none;
+  margin: 0 auto;
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 20px 20px 20px 20px;
+}
+
+#quoteGen {
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+#tweet {
+  margin-top: 20px;
+  margin-left: 5px;  
+}
+
+
+.btn {
+  background-color: rgba(0, 0, 0, 0.3);
+  color: #FFFFFF;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #FFFFFF;
+}
+
+.btn:hover {
+  background-color: rgba(0, 0, 0, 0.2);
+}
+
+.btn:active {
+  background-color: rgba(0, 0, 0, 0.2);
+}
